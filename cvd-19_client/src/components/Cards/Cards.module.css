@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem 0.3rem;
+}
+
+.card {
+    margin: 2% 1.5% !important;
+}
+
+.cardBig {
+    margin: 1% 2% !important;
+}
+
+.totalCases {
+    border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.activeCases {
+    border-bottom: 10px solid rgba(115,177,148,255);
+}
+
+.deaths {
+    border-bottom: 10px solid rgba(237,124,107,255);
+}
+
+.recovered {
+    border-bottom: 10px solid rgba(237, 214, 130);
+}

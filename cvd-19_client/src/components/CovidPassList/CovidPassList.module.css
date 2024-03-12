@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem 0.3rem;
+}
+
+.card {
+    margin: 2% 1% !important;
+}
+
+.cardBig {
+    margin: 1% 1% !important;
+}
+
+.totalCases {
+    border-bottom: 10px solid rgba(58, 80, 90);
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0.5rem 0.3rem;
+}
+
+.listEl {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0.2rem 0.5rem;
+}

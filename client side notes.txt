@@ -1,0 +1,11 @@
+A REACT APP:
+
+*creating the template:
+	> npx create-react-app ./
+*deleting the pre-made src folder and creating it from scratch
+*crating App.js and index.js in >src
+*installing dependencies:
+	> npm install --save axios react-chartjs-2 react-countup
+	> npm start
+*creating web page components - the components file with 
+*the rest...

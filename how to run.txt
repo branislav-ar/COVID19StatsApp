@@ -1,0 +1,10 @@
+server side:
+C:\Users\Bane\Desktop\RWA PROJ#1\cvd-19_server> npm run dev
+
+client side:
+C:\Users\Bane\Desktop\RWA PROJ#1\cvd-19_client> npm run start
+
+
+
+how to stop it?
+CTRL+C > y(yes)

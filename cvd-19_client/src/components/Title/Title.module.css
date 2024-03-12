@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+h1 {
+    margin: 1rem;
+}
+
+.naslovContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 2.5rem;
+    color: #24252A;
+}
+
+@media only screen and (max-width: 850px) {
+    .title {
+        font-size: 2.2rem;
+    }
+
+@media only screen and (max-width: 550px) {
+    .title {
+        font-size: 1.6rem;
+    }
+}
+}
