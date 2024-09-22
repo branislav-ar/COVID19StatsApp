@@ -1,2 +1,2 @@
 # COVID19StatsApp
-_COVID19StatsApp_ je WEB aplikacija koja vodi statistiku o rasprostranjenosti _COVID-19_ virusa. Aplikacija je orijentisana ka _front-endu_ (_React_) uz korišćenje _Tailwind-a_ za stilove i _TypeScript_ jezika.
+_COVID19StatsApp_ is a web application that tracks statistics on the spread of the COVID-19 virus. The application is front-end oriented (_React_) and uses _Tailwind_ for styling and _TypeScript_ as the programming language.
